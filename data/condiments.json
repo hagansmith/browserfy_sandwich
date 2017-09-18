@@ -1,0 +1,10 @@
+{
+	"condiments": [{
+		"Mayo": 0.25,
+		"Catsup": 0.25,
+		"Mustard": 0.25,
+		"Relish": 0.50,
+		"Spicy Mustard": 1.50,
+		"None (Flavorless)": 0.00
+	}]
+}
