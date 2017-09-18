@@ -42,10 +42,6 @@ const condimentsLoad = function () {
 
 const init = () => {
   loadBread(breadLoad, errorFunction);
-  // loadMeat(meatLoad, errorFunction);
-  // loadCheese(cheeseLoad, errorFunction);
-  // loadCondiments(condimentsLoad, errorFunction);
-  //loadVeggies(veggiesLoad, errorFunction);
 };
 
 module.exports = init;

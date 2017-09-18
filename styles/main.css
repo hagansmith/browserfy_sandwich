@@ -1,3 +1,49 @@
-body {
-  background-color: lightblue;
+
+#bread,
+#footer {
+    margin-bottom: 0px;
+    background-image: url(../images/bread.png);
+    background-position: 0% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    border: 5px solid black;
+}
+
+#meat {
+	  margin-bottom: 0px;
+    background-image: url(../images/Meat.png);
+    background-position: 0% 50%;
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#cheese {
+	  margin-bottom: 0px;
+    background-image: url(../images/Cheese.png);
+    background-position: 75% 80%;
+    background-color: white;
+    background-repeat: repeat;
+
+}
+
+#veggies {
+	  margin-bottom: 0px;
+    background-image: url(../images/topping.png);
+    background-position: 0% 50%;
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#condiments {
+	  margin-bottom: 0px;
+    background-image: url(../images/condiments.png);
+    height: 45px;
+    background-position: 0% 50%;
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
