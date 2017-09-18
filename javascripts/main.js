@@ -1,2 +1,6 @@
 "use strict";
-console.log('holla');
+
+const doIt = require ('./data');
+
+
+doIt();

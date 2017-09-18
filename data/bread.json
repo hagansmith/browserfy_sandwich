@@ -1,0 +1,10 @@
+{
+	"bread": [{
+		"Focaccia": 5.00,
+		"WholeWheat": 3.00,
+		"NineGrain": 1.35,
+		"LettuceWrap": 1.75,
+		"Pita": 1.50,
+		"None (I'm gluten intolerant)": 0.00
+	}]
+}
