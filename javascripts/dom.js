@@ -10,7 +10,6 @@ let position = 0;
 	}
 
 const domString = (input) => {
-	console.log('log of input', input); //input needs to be any array is still object
   let price = Object.values(input[0]);
 	let name = Object.keys(input[0]);
 	let finalString = "";
